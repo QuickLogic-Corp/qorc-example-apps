@@ -1,5 +1,6 @@
-Building the pm2dot5aqi app
-===========================
+=========================
+qf_pm2dot5aqi Application
+=========================
 
 Purpose
 -------
